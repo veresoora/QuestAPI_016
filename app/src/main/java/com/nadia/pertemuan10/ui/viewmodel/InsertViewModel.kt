@@ -1,4 +1,4 @@
-package com.nadia.pertemuan10.viewmodel
+package com.nadia.pertemuan10.ui.viewmodel
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
