@@ -2,8 +2,8 @@ package com.nadia.pertemuan10.di
 
 import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
 import com.nadia.pertemuan10.repository.MahasiswaRepository
+import com.nadia.pertemuan10.repository.NetworkKontrakRepository
 import com.nadia.pertemuan10.service_api.MahasiswaService
-import com.nadia.pertemuan10.service_api.NetworkKontrakRepository
 import kotlinx.serialization.json.Json
 import okhttp3.MediaType.Companion.toMediaType
 import retrofit2.Retrofit
